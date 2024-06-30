@@ -4,5 +4,5 @@ This repository contains the code and dataset for analyzing the Boston Housing d
 
 ## Repository Contents
 
-- **ALY6110_Lab_5_.ipynb**: The Jupyter notebook containing the complete code for data loading, preprocessing, PCA, and Linear Regression model development and evaluation.
+- **ALY6110_Lab_5.ipynb**: The Jupyter notebook containing the complete code for data loading, preprocessing, PCA, and Linear Regression model development and evaluation.
 - **BostonHousing.csv**: The dataset file used in the analysis.
